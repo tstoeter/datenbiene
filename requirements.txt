@@ -1,0 +1,10 @@
+pandas
+citric
+rspace_client
+jinja2
+pdfkit
+pyocclient
+pydicom
+filetype
+jinja2
+openpyxl
